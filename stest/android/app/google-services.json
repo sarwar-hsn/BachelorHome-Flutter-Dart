@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "882848073935",
+        "project_id": "fsociety-d3a2d",
+        "storage_bucket": "fsociety-d3a2d.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:882848073935:android:32387ec968d501a39ccfba",
+                "android_client_info": {
+                    "package_name": "com.example.stest"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "882848073935-2p3oeuu3f0kg7cnla2ua7v117juijifh.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAgNUblr7YBGmg2uNzEiSf7bit-fdTZjbQ"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "882848073935-2p3oeuu3f0kg7cnla2ua7v117juijifh.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
